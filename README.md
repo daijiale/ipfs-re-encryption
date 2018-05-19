@@ -21,4 +21,4 @@ php testBase64.php
 
 ## Demo
 
-![](http://daijiale-cn.oss-cn-hangzhou.aliyuncs.com/djl-blog-pic/ipfs/re-encryption/ipfs-cypto-demo.png)
+![](http://daijiale-cn.oss-cn-hangzhou.aliyuncs.com/djl-blog-pic/ipfs/re-encryption/ipfs-cypto-deo.jpg)
